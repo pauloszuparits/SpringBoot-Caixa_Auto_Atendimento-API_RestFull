@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.example</groupId>
-	<artifactId>springboot</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<artifactId>caixa_auto</artifactId>
+	<version>1.0</version>
 	<name>springboot</name>
-	<description>Demo project for Spring Boot</description>
+	<description>Projeto de caixa de auto atendimento API RestFul</description>
 	<url/>
 	<licenses>
 		<license/>
